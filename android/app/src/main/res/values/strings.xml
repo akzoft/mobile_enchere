@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">meYere</string>
+    <string name="facebook_app_id">201162189436311</string>
+    <string name="fb_login_protocol_scheme">fb201162189436311</string>
+    <string name="facebook_client_token">2cef3f271e249b1ebee674e88cac347a</string>
+</resources>
